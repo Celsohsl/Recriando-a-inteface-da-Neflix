@@ -12,7 +12,16 @@ caros do mundo.
 - O que aprendi: Nesse projeto aprendi como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins JQuery a favor da aplicação.
   
 #
-### :checkered_flag: Screenshot
+<h3 align ="center">:checkered_flag: Screenshot 
+  
+# 
+ <div align ="center">
+ <img  src="https://github.com/Celsohsl/Recriando-a-inteface-da-Neflix-/blob/main/readme-img/car1.jpg"/> <br>
+ <br>
+ <img src="https://github.com/Celsohsl/Recriando-a-inteface-da-Neflix-/blob/main/readme-img/car2.jpg" />
+ 
+</div>
+  
 #
   
 ### :wrench: Links Úteis:
